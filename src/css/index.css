@@ -128,7 +128,7 @@ li {
     font-size: 18px;
 }
 
-/*@media screen and (max-width: 750px) {
+@media screen and (max-width: 750px) {
     #container {
         top: 35%;
         left: 50%; 
@@ -152,10 +152,10 @@ li {
         transform: translate(-50%, -50%);
         text-align: center;
         top: 125%;
-        left: 115px;
+        left: 50%;
     }
 
     #pages {
         left: 50%;
     }
-  }*/
+  }
