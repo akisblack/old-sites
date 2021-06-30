@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Nunito", sans-serif;
+    src: url(../fonts/Nunito-SemiBold.ttf);
+}
+
+body {
+    font-family: "Nunito", sans-serif;
+    background-color: #333;
+}
+
+#container {
+    text-align: center;
+    transform: translateY(50%);
+}
+
+.pfp {
+    height: 200px;
+    width: 200px;
+}
