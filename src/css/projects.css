@@ -23,7 +23,6 @@ a:hover {
     text-decoration: underline;
 }
 
-
 .home, .home:hover, .home:active, .home:visited {
     color: var(--green);
     font-size: 36px;

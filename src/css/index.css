@@ -3,7 +3,6 @@
     src: url(../fonts/Nunito-SemiBold.ttf);
 }
 
-
 :root {
     --green: #0bf574;
     --dark: #272727;
@@ -109,7 +108,6 @@ ul, li {
 #webring > p, #webring > a {
     display: inline-flex;
 }
-
 
 @media screen and (max-width: 750px) {
 
