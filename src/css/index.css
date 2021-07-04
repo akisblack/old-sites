@@ -94,21 +94,6 @@ ul, li {
     display: inline-flex;
 }
 
-#webring {
-    text-align: center;
-    position: fixed;
-    bottom: 5px;
-    left: 0px;
-    width: 100%;
-    overflow:auto;
-    color: var(--green);
-    font-size: 18px; 
-}
-
-#webring > p, #webring > a {
-    display: inline-flex;
-}
-
 @media screen and (max-width: 750px) {
 
     .pfp {
@@ -133,6 +118,17 @@ ul, li {
     }
 
     #pages {
-        transform: translate(3%, -40%);
+        transform: translate(6%, -40%);
     }
   }
+
+#webring {
+    text-align: center;
+    position: fixed;
+    bottom: 5px;
+    left: 0px;
+    width: 100%;
+    overflow:auto;
+    font-size: 18px; 
+}
+
